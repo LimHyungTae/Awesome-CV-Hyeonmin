@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1757823628.45517 "resume.xdv" "resume.pdf" "resume" 1757823628.82252 0
-  "resume.xdv" 1757823628.40889 67804 25e6268f21f13049e4e8a2fc925e72bd "xelatex"
+["xdvipdfmx"] 1757823982.14536 "resume.xdv" "resume.pdf" "resume" 1757823982.50999 0
+  "resume.xdv" 1757823982.09978 72084 c3f265575ea5f5192872a569fbe930fb "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1757823626.47608 "resume.tex" "resume.xdv" "resume" 1757823628.82118 0
+["xelatex"] 1757823980.37418 "resume.tex" "resume.xdv" "resume" 1757823982.50866 0
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -172,11 +172,11 @@
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1730291240 10850207 ea22d071eb402ff37f05f2bc45eef289 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "awesome-cv.cls" 1757823029.6889 30927 3408cc8d8e2b84e3d5994c68afb647a4 ""
-  "resume.aux" 1757823628.40476 72 8c65bdc4d59188fb5b97343f16100895 "xelatex"
-  "resume.tex" 1757823625.5754 3616 32d0843f30e535e8919923e1e7b7d157 ""
+  "resume.aux" 1757823982.09894 72 8c65bdc4d59188fb5b97343f16100895 "xelatex"
+  "resume.tex" 1757823669.22738 3616 32d0843f30e535e8919923e1e7b7d157 ""
   "resume/Patents.tex" 1757823499.92947 719 0b1fc5cf3568a894957dfa75f84de427 ""
   "resume/Publications.tex" 1757822356.53386 1350 2a8e900bca0cf0e3b9d563cd3b072fa9 ""
-  "resume/aboutme.tex" 1757823536.34187 2902 4030765138117a6c6d5c1c882b519c64 ""
+  "resume/aboutme.tex" 1757823980.21997 3348 2bb24ccc22652feb5deb497f45d55e6a ""
   "resume/education.tex" 1757827344 1376 42450a7af9867bd8dee10e5fcef622f3 ""
   "resume/experience.tex" 1757827344 3689 700a1b7d7214936a38ddeb0242d49a1c ""
   "resume/honors.tex" 1757827344 1595 0bb7de3e841c39bd26bbc780e1348dbd ""
