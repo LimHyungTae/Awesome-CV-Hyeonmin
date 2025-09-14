@@ -304,25 +304,30 @@ OUTPUT resume.aux
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
+INPUT ./resume/aboutme.tex
+INPUT ./resume/aboutme.tex
+INPUT resume/aboutme.tex
 INPUT ./resume/education.tex
 INPUT ./resume/education.tex
 INPUT resume/education.tex
-INPUT ./resume/Research Interest.tex
-INPUT ./resume/Research Interest.tex
-INPUT resume/Research Interest.tex
 INPUT ./resume/experience.tex
 INPUT ./resume/experience.tex
 INPUT resume/experience.tex
+OUTPUT resume.xdv
 INPUT ./resume/Publications.tex
 INPUT ./resume/Publications.tex
 INPUT resume/Publications.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT ./resume/publication_journals.tex
+INPUT ./resume/publication_journals.tex
+INPUT resume/publication_journals.tex
+INPUT ./resume/publication_conf.tex
+INPUT ./resume/publication_conf.tex
+INPUT resume/publication_conf.tex
 INPUT ./resume/Patents.tex
 INPUT ./resume/Patents.tex
 INPUT resume/Patents.tex
-OUTPUT resume.xdv
-INPUT ./resume/Conferences.tex
-INPUT ./resume/Conferences.tex
-INPUT resume/Conferences.tex
 INPUT ./resume/honors.tex
 INPUT ./resume/honors.tex
 INPUT resume/honors.tex
